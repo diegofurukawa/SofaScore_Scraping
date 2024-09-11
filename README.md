@@ -1,3 +1,5 @@
 # SofaScore-WebScraping
-⚽️I scraped the shot data of the Fenerbahçe - Adana Demirspor match from Sofascore⚽️ 
+
+⚽️ I scraped the shot data of the Game Id match from Sofascore⚽️ 
+
 ! updated
